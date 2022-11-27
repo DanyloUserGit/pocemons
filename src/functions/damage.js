@@ -1,12 +1,12 @@
 const effective = {
     "fire" : "grass",
+    "grass" : "water"
 }
 const neutral = {
     "grass" : "electricity",
     "fire" : "electricity"
 }
 const noneffective = {
-    "water" : "grass",
     "fire" : "water",
     "water" : "electricity"
 }
